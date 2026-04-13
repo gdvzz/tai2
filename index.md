@@ -2,8 +2,8 @@
 title: 人才库
 layout: home
 # parent: AI实验课
-nav_order: 0
-# nav_exclude: true
+# nav_order: 0
+nav_exclude: true
 ---
 
 <!-- ---
