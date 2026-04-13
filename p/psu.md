@@ -1,8 +1,8 @@
 ---
-title: 人才库
+title: psu宾夕法尼亚州立大学
 layout: home
 parent: 人才库
-nav_order: p
+nav_order: 25
 # nav_exclude: true
 ---
 

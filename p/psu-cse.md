@@ -1,8 +1,8 @@
 ---
-title: 人才库
-layout: home
+title: cse
+layout: default
 parent: psu宾夕法尼亚州立大学
-nav_order: c
+# nav_order: c
 # nav_exclude: true
 ---
 
