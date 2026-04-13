@@ -1,5 +1,5 @@
 ---
-title: psu宾夕法尼亚州立大学
+title: uos萨里大学
 layout: default
 # parent: 人才库
 # nav_order: 25
@@ -11,7 +11,7 @@ title: Home
 layout: home
 --- -->
 
-# psu宾夕法尼亚州立大学
+# uos萨里大学
 {: .no_toc }
 `更新-260413` \| `发布-260413`
 
@@ -23,4 +23,3 @@ layout: home
 - TOC
 {:toc}
 </details> -->
-
