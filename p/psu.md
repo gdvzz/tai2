@@ -1,8 +1,8 @@
 ---
 title: 人才库
 layout: home
-# parent: AI实验课
-nav_order: 0
+parent: 人才库
+nav_order: psu
 # nav_exclude: true
 ---
 
@@ -11,7 +11,7 @@ title: Home
 layout: home
 --- -->
 
-# 人才库
+# psu宾夕法尼亚州立大学
 {: .no_toc }
 `更新-260413` \| `发布-260413`
 
@@ -24,4 +24,3 @@ layout: home
 {:toc}
 </details> -->
 
-存放人才信息。
