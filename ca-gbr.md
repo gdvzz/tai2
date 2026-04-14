@@ -1,8 +1,8 @@
 ---
-title: pai
+title: 英国
 layout: default
-parent: uos萨里大学
-# nav_order: c
+# parent: AI实验课
+# nav_order: 0
 # nav_exclude: true
 ---
 
@@ -11,9 +11,9 @@ title: Home
 layout: home
 --- -->
 
-# pai以人为本人工智能研究所
+# 英国
 {: .no_toc }
-`更新-260413` \| `发布-260413`
+<!-- `更新-260414` \| `发布-260413` -->
 
 <!--  -->
 <!-- <details open markdown="block">

@@ -1,7 +1,8 @@
 ---
 title: Bingxin Lu
 layout: default
-parent: pai
+# parent: pai
+parent: 萨里大学
 # nav_order: c
 # nav_exclude: true
 ---

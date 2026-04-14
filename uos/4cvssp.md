@@ -1,9 +1,9 @@
 ---
-title: cs
+title: cvssp
 layout: default
-parent: kul鲁汶大学
+parent: uos萨里大学
 # nav_order: c
-# nav_exclude: true
+nav_exclude: true
 ---
 
 <!-- ---
@@ -11,7 +11,7 @@ title: Home
 layout: home
 --- -->
 
-# cs计算机科学系
+# cvssp视觉语音与信号处理中心
 {: .no_toc }
 `更新-260413` \| `发布-260413`
 

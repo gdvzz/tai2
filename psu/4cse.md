@@ -1,9 +1,9 @@
 ---
-title: cvssp
+title: cse
 layout: default
-parent: uos萨里大学
+parent: psu宾夕法尼亚州立大学
 # nav_order: c
-# nav_exclude: true
+nav_exclude: true
 ---
 
 <!-- ---
@@ -11,7 +11,7 @@ title: Home
 layout: home
 --- -->
 
-# cvssp视觉语音与信号处理中心
+# cse计算机科学与工程系
 {: .no_toc }
 `更新-260413` \| `发布-260413`
 

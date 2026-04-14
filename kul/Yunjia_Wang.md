@@ -1,7 +1,8 @@
 ---
 title: Yunjia Wang
 layout: default
-parent: cee
+parent: 鲁汶大学
+# parent: cee
 # nav_order: c
 # nav_exclude: true
 ---

@@ -1,7 +1,8 @@
 ---
 title: Dong Xie
 layout: default
-parent: cse
+# parent: cse
+parent: 宾夕法尼亚州立大学
 # nav_order: c
 # nav_exclude: true
 ---

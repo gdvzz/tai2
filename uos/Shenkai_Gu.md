@@ -1,7 +1,8 @@
 ---
 title: Shenkai Gu
 layout: default
-parent: cc
+# parent: cc
+parent: 萨里大学
 # nav_order: c
 # nav_exclude: true
 ---

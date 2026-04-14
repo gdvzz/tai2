@@ -1,9 +1,9 @@
 ---
-title: cse
+title: csee
 layout: default
-parent: psu宾夕法尼亚州立大学
+parent: uos萨里大学
 # nav_order: c
-# nav_exclude: true
+nav_exclude: true
 ---
 
 <!-- ---
@@ -11,7 +11,7 @@ title: Home
 layout: home
 --- -->
 
-# cse计算机科学与工程系
+# csee计算机科学与电子工程学院
 {: .no_toc }
 `更新-260413` \| `发布-260413`
 

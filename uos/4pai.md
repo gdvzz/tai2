@@ -1,9 +1,9 @@
 ---
-title: 萨里大学
+title: pai
 layout: default
-parent: 英国
-# nav_order: 25
-# nav_exclude: true
+parent: uos萨里大学
+# nav_order: c
+nav_exclude: true
 ---
 
 <!-- ---
@@ -11,9 +11,9 @@ title: Home
 layout: home
 --- -->
 
-# 萨里大学
+# pai以人为本人工智能研究所
 {: .no_toc }
-<!-- `更新-260413` \| `发布-260413` -->
+`更新-260413` \| `发布-260413`
 
 <!--  -->
 <!-- <details open markdown="block">

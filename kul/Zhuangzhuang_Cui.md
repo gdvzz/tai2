@@ -1,7 +1,8 @@
 ---
 title: Zhuangzhuang Cui
 layout: default
-parent: ee
+parent: 鲁汶大学
+# parent: ee
 # nav_order: c
 # nav_exclude: true
 ---

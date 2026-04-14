@@ -1,7 +1,7 @@
 ---
-title: kul鲁汶大学
+title: 鲁汶大学
 layout: default
-# parent: 人才库
+parent: 比利时
 # nav_order: 25
 # nav_exclude: true
 ---
@@ -11,9 +11,9 @@ title: Home
 layout: home
 --- -->
 
-# kul鲁汶大学
+# 鲁汶大学
 {: .no_toc }
-`更新-260413` \| `发布-260413`
+<!-- `更新-260413` \| `发布-260413` -->
 
 <!--  -->
 <!-- <details open markdown="block">

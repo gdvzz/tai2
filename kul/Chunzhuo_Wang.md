@@ -1,7 +1,7 @@
 ---
 title: Chunzhuo Wang
 layout: default
-parent: cs
+parent: 鲁汶大学
 # nav_order: c
 # nav_exclude: true
 ---

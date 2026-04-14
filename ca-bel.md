@@ -1,8 +1,8 @@
 ---
-title: 萨里大学
+title: 比利时
 layout: default
-parent: 英国
-# nav_order: 25
+# parent: AI实验课
+# nav_order: 0
 # nav_exclude: true
 ---
 
@@ -11,9 +11,9 @@ title: Home
 layout: home
 --- -->
 
-# 萨里大学
+# 比利时
 {: .no_toc }
-<!-- `更新-260413` \| `发布-260413` -->
+<!-- `更新-260414` \| `发布-260413` -->
 
 <!--  -->
 <!-- <details open markdown="block">

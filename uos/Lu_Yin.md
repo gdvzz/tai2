@@ -1,7 +1,8 @@
 ---
 title: Lu Yin
 layout: default
-parent: csee
+# parent: csee
+parent: 萨里大学
 # nav_order: c
 # nav_exclude: true
 ---

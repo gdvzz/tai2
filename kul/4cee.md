@@ -1,9 +1,9 @@
 ---
-title: cc
+title: cee
 layout: default
-parent: uos萨里大学
+parent: kul鲁汶大学
 # nav_order: c
-# nav_exclude: true
+nav_exclude: true
 ---
 
 <!-- ---
@@ -11,7 +11,7 @@ title: Home
 layout: home
 --- -->
 
-# cc网络安全中心
+# cee计算机与电子工程学院
 {: .no_toc }
 `更新-260413` \| `发布-260413`
 
@@ -23,3 +23,5 @@ layout: home
 - TOC
 {:toc}
 </details> -->
+
+
